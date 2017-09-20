@@ -1,0 +1,75 @@
+#input_what_kind_of_entity_is_your_case_against{
+    width: 100%;
+    max-width: 188px;
+    display: inline-block;
+    margin-right: 10px;
+    height: 40px;
+}
+
+#input_i_am_filing_my_case_against {
+    padding: 5px 10px;
+    line-height: normal;
+    display: inline-block;
+    max-width: 478px;
+    height: 40px;
+}
+
+#input_email_address_defender {
+    padding: 5px 10px;
+    line-height: normal;
+    display: inline-block;
+    max-width: 477px;
+    height: 40px;
+}
+
+#input_relation_with_you_and_defender {
+    padding: 5px 10px;
+    line-height: normal;
+    display: inline-block;
+    max-width: 190px;
+    height: 40px;
+}
+.class_call_action_details i, .class_info_pos_abs i{ display: inline-block;    position: absolute;    right: 21px;    top: 10px; }
+.class_call_action_details i{ display: inline-block;    position: absolute;    right: -10px;    top: 35px; }
+.bottom-section {
+    max-width: 900px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.bottom-section label{
+	display: block;
+    margin-right: 0;
+    font-size: 18px;
+    border-radius: 10px;
+    width: auto;
+    text-align: left;
+    line-height: normal;
+    padding-top: 8px;
+		
+		}
+		
+	.bottom-section #input_record_video{
+		padding:10px 20px !important;
+		font-size: 19px;
+		}	
+		
+	.cause_act_bot	{
+	
+   max-width: 161px;
+		}
+		
+		select#input_cause_of_action {
+    max-width: 160px;
+    display: inline-block;
+	margin-right: 5px;
+}
+
+.a_section.class_basic_data{ border:none  !important; border-radius:none !important;}
+.boilerplate_example{
+    color: #ccc;
+}
+.padding-right-left-zero{  }
+#input_submit_registration{ cursor:pointer;}
+.row.cose_of_action_detail.form-group{ display:none;}
+p#input_submit_registration{ cursor:pointer;}
+p#input_submit_login{ cursor:pointer;}
